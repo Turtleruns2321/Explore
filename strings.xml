@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Explore</string>
+    <string name="snow">Ski/Snowboard</string>
+    <string name="trails">Hiking</string>
+    <string name="water">Kayaking</string>
+    <string name="weather">Weather</string>
+    <string name="maps">Map</string>
+</resources>
